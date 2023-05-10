@@ -2,7 +2,7 @@
 The Hotel Reservation System is a command-line application implemented in Python that allows tenants to make reservations and manage their information. The system is designed to manage a finite number of rooms available for reservations.
 
 -Assumptions
- -Before using this system, please note the following assumptions:
+   Before using this system, please note the following assumptions:<br>
  -Each tenant can only have one reservation.
  -The hotel has a finite number of rooms available for reservations.
  -The reservation number must be unique for each reservation.
